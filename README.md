@@ -17,7 +17,7 @@ install the necessary packages:
 
 then run the TypeScript compiler:
 
-`npm run postinstall`
+`tsc`
 
 and run the application:
 
