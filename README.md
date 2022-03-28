@@ -11,10 +11,14 @@ NODE_ENV
 PORT
 ```
 
-then run
+install the necessary packages:
+
+`npm install`
+
+then run the TypeScript compiler:
 
 `npm run postinstall`
 
-and
+and run the application:
 
 `npm start`
