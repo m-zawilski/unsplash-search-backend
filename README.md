@@ -1,6 +1,6 @@
 # unsplash-search-backend
 
-Simple backend that acts as a proxy for accessing Unsplash API.
+Simple NodeJS (TypeScript) backend that acts as a proxy for accessing Unsplash API.
 
 To run the application, first set the environment variables:
 
