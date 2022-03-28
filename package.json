@@ -10,8 +10,11 @@
   },
   "lib": "ES2021",
   "type": "module",
-  "author": "",
+  "author": "m-zawilski",
   "license": "ISC",
+  "engines": {
+    "node": "v16.13.1"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
